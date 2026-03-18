@@ -304,7 +304,7 @@ threats:
   - id: T-PERSIST-003
     name: Agent Configuration Tampering
     tactic: Persistence
-    atlas: AML.T0010.002
+    atlas: AML.T0081
     risk: Medium
     category: persistence
     description: Attacker modifies agent configuration to persist access
